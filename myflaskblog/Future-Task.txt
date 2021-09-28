@@ -1,0 +1,4 @@
+To Handle Integrity Error
+
+https://stackoverflow.com/questions/52075642/how-to-handle-unique-data-in-sqlalchemy-flask-pyhon
+
